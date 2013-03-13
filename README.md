@@ -41,3 +41,7 @@ INSTRUCCIONES:
 2º - Suba la libreria descargada a la carpeta de su servidor o proyecto
 3º - incluya el archivo con require('funcs.regexp.php'); ó include('funcs.regexp.php');
 4º - llame la funcion en el apartado deseado de su proyecto con expresiones_regulares('#numero','#datos');
+
+Licencia:
+=========
+This code is license under the MIT library.
