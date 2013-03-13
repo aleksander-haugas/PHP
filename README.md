@@ -1,4 +1,4 @@
-PHP Mass Expresiones Regulares
+PHP Expresiones Regulares
 =========================
 
 Version:        0.9.0 Beta
