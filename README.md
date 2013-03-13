@@ -3,7 +3,7 @@ PHP Expresiones Regulares
 =========================
 
 Version:        0.9.0 Beta
----------------------------------
+_________________________________
 Desarrollador:  Aleksander Haugas
 ---------------------------------
 
