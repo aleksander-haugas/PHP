@@ -3,7 +3,9 @@ PHP Expresiones Regulares
 =========================
 
 Version:        0.9.0 Beta
+---------------------------------
 Desarrollador:  Aleksander Haugas
+---------------------------------
 
 Una pequeña libreria escrita en php, pensado para un desarrolllo rápido y eficiente con la inserccion de una sola linea de código listo para incluirlo en cualquier proyecto grande o pequeño.
 Esta libreria utiliza expresiones regulares para verificar datos, extraer contenido, detectar y modificar datos.
