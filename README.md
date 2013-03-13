@@ -2,8 +2,6 @@
 PHP Expresiones Regulares
 =========================
 
-.. contents :: :local:
-
 Version:        0.9.0 Beta
 Desarrollador:  Aleksander Haugas
 
