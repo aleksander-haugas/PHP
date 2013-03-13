@@ -2,8 +2,8 @@
 PHP Expresiones Regulares
 =========================
 
-  Version:        0.9.0 Beta 
-  Desarrollador:  Aleksander Haugas
+Version:        0.9.0 Beta 
+Desarrollador:  Aleksander Haugas
 _________________________________
 
 Una pequeña libreria escrita en php, pensado para un desarrolllo rápido y eficiente con la inserccion de una sola linea de código listo para incluirlo en cualquier proyecto grande o pequeño.
@@ -15,7 +15,7 @@ Funciones Destacadas Soportadas:
 
 Deteccion de enlaces:             Deteccion de enlaces dentro de las etiquetas: <a href=""></a>
 Deteccion de comentarios:         Deteccion de comentarios multilinea: /* comentario */
-Comprobar si son imagenes:        Comprobacion de imagenes con url jpg, gif, png
+<p>Comprobar si son imagenes:        Comprobacion de imagenes con url jpg, gif, png</p>
 Extraer datos de <img>            Extraer datos como la url o el titulo del tag <img>
 Verificar Correo electronico:     Verificacion del correo electronico.
 Encontrar código embed:           Encontrar el codigo embed para extraer contenido o incrustar
