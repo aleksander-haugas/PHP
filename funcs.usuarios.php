@@ -1,4 +1,12 @@
 <?php
+/*
+* 	Validación de registro del usuario.
+* 	Version: 0.9.0 beta
+* 	Copyright (c) 2013 Aleksander Haugas
+*
+* 	Licensed under the MIT license:
+* 	http://www.opensource.org/licenses/mit-license.php
+*/
 
 	/*
 	* Simple funcion para comprobar DNI, NIE
