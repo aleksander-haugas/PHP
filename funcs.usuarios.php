@@ -97,4 +97,10 @@
 	
 		return true;      
 	}
+	
+	// Comprobamos si el email es valido
+	function emailValido($email)
+	{
+		return preg_match("/([\w\-]+\@[\w\-]+\.[\w\-]+)/",trim($email));
+	}
 ?>
